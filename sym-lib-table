@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-TYPE-C-018")(type "KiCad")(uri "${KIPRJMOD}/libraries/JLC2KiCad_lib/symbol/USB-TYPE-C-018.kicad_sym")(options "")(descr ""))
+)
